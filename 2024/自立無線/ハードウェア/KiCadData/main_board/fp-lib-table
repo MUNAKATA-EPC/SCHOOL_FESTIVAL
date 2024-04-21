@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "L3GD20H_Module")(type "KiCad")(uri "C:/Users/umifu/OneDrive/ドキュメント/GitHub/SCHOOL_FESTIVAL/2024/自立無線/ハードウェア/KiCadData/KiCad_Library/L3GD20H_Module")(options "")(descr ""))
+  (lib (name "_Others")(type "KiCad")(uri "C:/Users/umifu/OneDrive/ドキュメント/GitHub/SCHOOL_FESTIVAL/2024/自立無線/ハードウェア/KiCadData/KiCad_Library/_Others")(options "")(descr ""))
+  (lib (name "Pico_W")(type "KiCad")(uri "C:/Users/umifu/OneDrive/ドキュメント/GitHub/SCHOOL_FESTIVAL/2024/自立無線/ハードウェア/KiCadData/KiCad_Library/Pico_W")(options "")(descr ""))
+)

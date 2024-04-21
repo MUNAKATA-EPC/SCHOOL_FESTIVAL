@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Pico_W")(type "KiCad")(uri "C:/Users/umifu/OneDrive/ドキュメント/GitHub/SCHOOL_FESTIVAL/2024/自立無線/ハードウェア/KiCadData/KiCad_Library/Pico_W/Pico_W.kicad_sym")(options "")(descr ""))
+  (lib (name "Seeeduino XIAO")(type "Legacy")(uri "C:/Users/umifu/OneDrive/ドキュメント/GitHub/SCHOOL_FESTIVAL/2024/自立無線/ハードウェア/KiCadData/KiCad_Library/Seeeduino XIAO KICAD/Seeeduino XIAO.lib")(options "")(descr ""))
+  (lib (name "seeeduino_xiao")(type "KiCad")(uri "C:/Users/umifu/OneDrive/ドキュメント/GitHub/SCHOOL_FESTIVAL/2024/自立無線/ハードウェア/KiCadData/KiCad_Library/Seeeduino_Xiao/seeeduino_xiao.kicad_sym")(options "")(descr ""))
+  (lib (name "StampPico_template")(type "Legacy")(uri "C:/Users/umifu/OneDrive/ドキュメント/GitHub/SCHOOL_FESTIVAL/2024/自立無線/ハードウェア/KiCadData/KiCad_Library/_Others/StampPico_template.lib")(options "")(descr ""))
+  (lib (name "L3GD20H_Module")(type "KiCad")(uri "C:/Users/umifu/OneDrive/ドキュメント/GitHub/SCHOOL_FESTIVAL/2024/自立無線/ハードウェア/KiCadData/KiCad_Library/L3GD20H_Module/L3GD20H_Module.kicad_sym")(options "")(descr ""))
+)
