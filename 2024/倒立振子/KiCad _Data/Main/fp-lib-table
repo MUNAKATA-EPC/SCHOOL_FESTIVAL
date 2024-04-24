@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "L3GD20H_Module")(type "KiCad")(uri "/Users/kyle.matsuda/GitHub/SCHOOL_FESTIVAL/2024/自立無線/ハードウェア/KiCadData/KiCad_Library/L3GD20H_Module")(options "")(descr ""))
+)

@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "L3GD20H_Module")(type "KiCad")(uri "/Users/kyle.matsuda/GitHub/SCHOOL_FESTIVAL/2024/倒立振子/KiCad _Data/Lib/L3GD20H_Module/L3GD20H_Module.kicad_sym")(options "")(descr ""))
+  (lib (name "L3GD20H_Module")(type "KiCad")(uri "/Users/kyle.matsuda/GitHub/SCHOOL_FESTIVAL/2024/自立無線/ハードウェア/KiCadData/KiCad_Library/L3GD20H_Module/L3GD20H_Module.kicad_sym")(options "")(descr ""))
 )
